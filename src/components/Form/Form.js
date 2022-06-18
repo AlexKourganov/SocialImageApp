@@ -15,7 +15,7 @@ const Form = ({currentId,setCurrentId}) => {
     tags: "",
     selectedFile: "",
   });
-  const data = useSelector((state)=>state.posts.posts);
+  // const data = useSelector((state)=>state.posts.posts);
   
 
 

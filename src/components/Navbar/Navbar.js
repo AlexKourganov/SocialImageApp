@@ -6,7 +6,7 @@ import { useDispatch } from "react-redux";
 import decode from 'jwt-decode';
 import {Link,useHistory,useLocation} from 'react-router-dom';
 import useStyles from './styles';
-import memories from '../../images/memories.png';
+
 import memoriesLogo from '../../images/memories-Logo.png';
 import memoriesText from '../../images/memories-Text.png';
 
@@ -40,6 +40,7 @@ const Navbar = () => {
     //   Check for JWT
     
      setUser(JSON.parse(localStorage.getItem('profile')))
+      // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [location]);
     
    

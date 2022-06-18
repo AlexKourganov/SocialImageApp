@@ -6,7 +6,7 @@ import {
   Grid,
   Typography,
   Container,
-  TextField,
+  
   Grow
 } from "@material-ui/core";
 import {useHistory} from 'react-router-dom';
@@ -47,6 +47,7 @@ const Auth = () => {
 
       console.log((errors))
     }
+     // eslint-disable-next-line react-hooks/exhaustive-deps
   } ,[errorData])
   
 
