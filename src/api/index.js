@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API  = axios.create({baseURL:'http://localhost:5000'});
+// const API  = axios.create({baseURL:'http://localhost:5000'});
+const API  = axios.create({baseURL:'https://imageapp001.herokuapp.com/'});
 
 // will happen before all of this requests
 // need to send token
