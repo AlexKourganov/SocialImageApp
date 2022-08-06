@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Memories Social App :floppy_disk:
+<p align="center">
+  <img src="https://live.staticflickr.com/65535/52268112868_fe5b08ed37_b.jpg">
+</p>
+
+## Technologies
+
+<img src="https://icon-library.com/images/react-icon/react-icon-29.jpg" width="50" height="50" /> <img src="https://material-ui.com/static/logo.png" width="50" height="50" /> <img src="https://live.staticflickr.com/65535/52268101426_4fac2ca9d1_o.png" width="50" height="50" /> <img src="https://live.staticflickr.com/65535/52268587095_4069552046_o.png" width="50" height="50" />
+
+
+REACT/MATERIALUI/REDUX/MONGODB
+
+## Summary
+A Social Site to upload your images and have an ability to like and comment on them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
